@@ -1,7 +1,7 @@
 #
 
 >## **DIAMOND PRICE PREDICTION**
-
+# 
 
 #####  ![aquí había una imagen de un diamante](/Imagenes/diamantes.png)
 # 
@@ -36,11 +36,12 @@ Work and results are summarized in the following slide:
 
 #### During the project, I have used the following libraries:
 
-- #### Sklearn
-- #### Pandas
-- #### Numpy
-- #### Matplotlib
-- #### Seaborn
+- #### [Sklearn](https://scikit-learn.org/stable/user_guide.html)
+- #### [Pandas](https://pandas.pydata.org/)
+- #### [Numpy](https://numpy.org/doc/stable/)
+- #### [Matplotlib](https://matplotlib.org/stable/users/index)
+- #### [Seaborn](https://seaborn.pydata.org/)
+
 
 
 #### You can find links to the official documentation of each library at the end, under Links & Resources

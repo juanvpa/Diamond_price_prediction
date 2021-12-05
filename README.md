@@ -3,7 +3,7 @@
 >## **DIAMOND PRICE PREDICTION**
 
 
-#####  ![aquí había una imagen de un diamante](diamantes.png)
+#####  ![aquí había una imagen de un diamante](/Imagenes/diamantes.png)
 # 
 
 >### **INTRODUCTION**
@@ -27,7 +27,7 @@ This included converting categorical variables to ordinal, checking for highly c
 I used linear regression & random forests. 
 
 Work and results are summarized in the following slide:
-#####  ![aquí había una imagen de un diamante](slide.png)
+#####  ![aquí había una imagen de un diamante](/Imagenes/slide.png)
 
 
 #

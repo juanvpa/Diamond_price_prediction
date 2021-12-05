@@ -8,7 +8,7 @@
 
 >### **INTRODUCTION**
 
-#### The final weekly project in the Data Analytics Bootcamp is a competition to find the best model for prediction diamond prices based on nine given variables: 
+#### The final weekly project in the Data Analytics Bootcamp is a [Kaggle Competition](https://www.kaggle.com/c/diamonds-datamad1021-rev/overview) to find the best model for prediction diamond prices based on nine given variables: 
 
 - carat - cut - color - clarity - depth - table - x - y - z
 
